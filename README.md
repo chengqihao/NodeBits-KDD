@@ -78,7 +78,7 @@ bash scripts/download_medium_datasets.sh
 
 Pokec is downloaded by the dataset loader if `data/pokec/pokec.mat` is missing.
 
-## Acknowledgement
+## 🙏 Acknowledgement
 
 We extend our sincere appreciation to the following repositories for their code and datasets:
 
